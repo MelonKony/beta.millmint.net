@@ -1,0 +1,14 @@
+<div>
+  <div id="headerbox">
+    <h1 class="title" style="line-height: 1.2; font-size: 1.5rem; font-weight: 700; margin-bottom: 1rem;">{{ if .Params.fulltitle }}{{ .Params.fulltitle }}</h1>
+    {{ end }}
+    <h1 class="emoji" id="whirlybat">{{ if .Params.emoji }}{{ .Params.emoji }}</h1>
+    {{ end }}
+  </div>
+  <div class="tagbox" style="margin-top: -3rem;">
+    <h5 span class="tag red"> {{ if .Params.tag }}{{ .Params.tag }} </h5>
+    {{ end }}
+    <h6 span class="sitetag">{{ if .Params.sitetag }}{{ .Params.sitetag }}</h6>
+  </div>
+{{ end }}
+</div>

@@ -1,0 +1,9 @@
+{{ $enableLineNo := and (.Scratch.Get "params").usePrismJS (.Scratch.Get "params").enablePrismJSLineNo }}
+{{ partial "page-meta" . }}
+{{ partial "post-meta" . }}
+<!--<div>
+{{ partial "toc.html" . }}
+</div>-->
+<article {{ if $enableLineNo }}class="line-numbers"{{ end }}>
+    {{ .Content | safeHTML }}
+</article>

@@ -1,0 +1,39 @@
+/*! purgecss start ignore */
+
+html {
+  font-size: 17px;
+}
+
+.mr-2 {
+    margin-right: 1rem;
+}
+
+/* site width fix */
+@media (min-width: 1280px) {
+    .xl\:w-5\/12 {
+        width: 45.666667%;
+    }
+}
+/* make site navbar stick around longer */
+@media (min-width: 800px) {
+    .xl\:block {
+        display: block!important;
+    }
+}
+
+/* footer breadcrumbs */
+.breadcrumbs {
+    padding: .25rem 1rem .25rem .75rem;
+    border-radius: .25rem;
+    margin-top: 0rem;
+    list-style: none;
+    background-color: var(--gray-100);
+    width: 100%;
+}
+
+@import "components/color.pcss";
+@import "components/header.pcss";
+@import "components/content.pcss";
+@import "components/article.pcss";
+
+/*! purgecss end ignore */
