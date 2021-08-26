@@ -1,6 +1,9 @@
 {{ $enableLineNo := and (.Scratch.Get "params").usePrismJS (.Scratch.Get "params").enablePrismJSLineNo }}
-{{ partial "page-meta" . }}
-{{ partial "post-meta" . }}
+<div>
+  {{ partial "page-meta" . }}
+  <!--<div style="font-size: 14px; text-align: right; color: var(--color-gray)">{{ partial "reading-time.html" . }}</div>-->
+  {{ partial "post-meta" . }}
+</div>
 <!--<div>
 {{ partial "toc.html" . }}
 </div>-->

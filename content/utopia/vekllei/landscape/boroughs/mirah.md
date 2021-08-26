@@ -1,5 +1,5 @@
 ---
-title: Mirah
+title: The Borough of Mirah
 
 fulltitle: The Borough of Mirah
 emoji: ←
@@ -17,19 +17,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {

@@ -1,5 +1,5 @@
 ---
-title: "A Universal Nostalgia"
+title: A Universal Nostalgia — Spatiality Across Studio Ghibli
 
 fulltitle: A Universal Nostalgia — Spatiality Across Studio Ghibli
 emoji: V
@@ -13,25 +13,16 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
-.tagbox {
-  margin-top: -1.5rem!important;
-}
 .tag {
   color: var(--color-blue);
 }
-.markdown a {
+.emoji {
+  color: var(--color-blue);
+}
+body article a {
 color: var(--color-blue);
 }
-.markdown a.anchor {
-color: var(--color-blue);
-}
-aside nav ul a {
-color: var(--color-blue);
-}
-#headerbox .emoji {
-color: var(--color-blue);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-blue);
 }
 </style>
@@ -42,7 +33,7 @@ This thesis was completed in partial fulfillment of Honours in a Bachelor of Med
 {{< /hint >}}
 
 <div style="background-color: var(--gray-100); border-radius: 5px;">
-<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/tzizuku.png">
+<img alt="smallimg" style="background-color: var(--gray-100); border-radius: 5px;" src="/images/mastheads/tzizuku.png">
 </div>
 
 ## Abstract

@@ -1,5 +1,5 @@
 ---
-title: Boroughs
+title: The Boroughs of Vekllei
 fulltitle: The Boroughs of Vekllei
 emoji: ←
 tag: LANDSCAPE
@@ -9,26 +9,17 @@ weight: 1
 bookHidden: false
 ---
 <style>
-.markdown a {
-color: var(--color-green);
-}
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
-color: var(--color-green);
-}
 .tag {
+  color: var(--color-green);
+}
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.gt-container {
-    display: none;
+body article a a:visited {
+color: var(--color-green);
 }
 </style>
 

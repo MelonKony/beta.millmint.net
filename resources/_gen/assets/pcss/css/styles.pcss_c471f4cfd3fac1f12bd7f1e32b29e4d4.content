@@ -8867,7 +8867,7 @@ img {
 
 /* image styles */
 
-img[alt=smallimg] {
+img [alt=smallimg] {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -8985,21 +8985,56 @@ blockquote {
 
 /* headerbox */
 
-#headerbox {
-  display: flex;
-  justify-content: space-between;
+.headerbox {
+  display: grid;
+  grid-template-columns: 1.5fr .5fr;
+  grid-template-rows: 50% 25% 25%;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas: "title emoji" "tag emoji" "sitetag emoji";
 }
 
-#headerbox .title {
-  height: 100%;
-}
-
-.title h1 {
-  margin-left: 10px;
+.title {
+  grid-area: title;
   margin-top: 0px !important;
   line-height: 1.2;
   margin-bottom: 1rem;
   font-weight: 700;
+}
+
+.tag {
+  grid-area: tag;
+  font-weight: bolder;
+  font-size: 14px;
+}
+
+.sitetag {
+  grid-area: sitetag;
+  font-size: 14px;
+  color: var(--color-gray);
+  margin-top: -0.4rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.emoji {
+  grid-area: emoji;
+  font-family: 'Whirlybats';
+  font-weight: normal;
+  font-style: normal;
+  font-feature-settings: 'liga';
+  text-align: right;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  margin-right: 55px;
+  margin-left: 55px;
+  letter-spacing: -65px;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  float: right;
+  font-size: 65px;
 }
 
 .icon {
@@ -9061,20 +9096,6 @@ blockquote {
           animation: whirlyAnimate 2s linear infinite;
 }
 
-/* tags */
-
-.tag {
-  font-weight: bolder;
-  font-size: 14px;
-}
-
-.sitetag {
-  font-size: 14px;
-  color: var(--color-gray);
-  margin-bottom: 1rem;
-  font-weight: 600;
-}
-
 /* details dropdown */
 
 details summary {
@@ -9106,7 +9127,7 @@ a.book-btn {
 
 .book-columns > div {
   margin: 1rem 0;
-  min-width: 335px;
+  min-width: 250px;
   padding: 0 1rem;
   margin-right: 0rem;
   margin-top: 0px;

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Boroughs on MillMint</title>
+    <title>The Boroughs of Vekllei on MillMint</title>
     <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/</link>
-    <description>Recent content in Boroughs on MillMint</description>
+    <description>Recent content in The Boroughs of Vekllei on MillMint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://beta.millmint.net/utopia/vekllei/landscape/boroughs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bakur</title>
+      <title>The Borough of Bakur</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/bakur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -16,19 +16,13 @@
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -90,7 +84,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Eyri</title>
+      <title>The Borough of Eyri</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/eyri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -99,19 +93,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -175,7 +163,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Holsyim</title>
+      <title>The Borough of Holsyim</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/holsyim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -184,19 +172,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -258,7 +240,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Kyala</title>
+      <title>The Borough of Kyala</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/d-kyala/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -267,19 +249,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -351,7 +327,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Lita</title>
+      <title>The Borough of Lita</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/lita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -360,19 +336,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -434,7 +404,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Lo</title>
+      <title>The Borough of Lo</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/d-lo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -443,19 +413,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -540,7 +504,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Mirah</title>
+      <title>The Borough of Mirah</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/mirah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -549,19 +513,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -623,7 +581,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Miyatvousi</title>
+      <title>The Borough of Miyatvousi</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/miyatvousi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -632,19 +590,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -728,7 +680,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Mumen</title>
+      <title>The Borough of Mumen</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/mumen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -737,19 +689,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -814,7 +760,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Ou</title>
+      <title>The Borough of Ou</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/ou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -823,19 +769,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -933,7 +873,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Santes</title>
+      <title>The Borough of Santes</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/santes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -942,19 +882,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -1039,7 +973,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Stochi</title>
+      <title>The Borough of Stochi</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/d-stochi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1048,19 +982,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -1163,7 +1091,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Totoyan</title>
+      <title>The Borough of Totoyan</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/d-totoyan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1172,19 +1100,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -1266,7 +1188,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Troll</title>
+      <title>The Borough of Troll</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/troll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1275,19 +1197,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -1375,7 +1291,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Voya Voya</title>
+      <title>The Borough of Voya Voya</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/voya-voya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1384,19 +1300,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {
@@ -1481,7 +1391,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>Yana</title>
+      <title>The Borough of Yana</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/yana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1490,19 +1400,13 @@ color: var(--color-green);
 .tag {
   color: var(--color-green);
 }
-.markdown a {
+.emoji {
+  color: var(--color-green);
+}
+body article a {
 color: var(--color-green);
 }
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-green);
 }
 .markdown a.book-btn {

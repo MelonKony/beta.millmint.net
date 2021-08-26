@@ -1,5 +1,5 @@
 ---
-title: About
+title: About the Author
 weight: "1"
 fulltitle: About the Author
 emoji: v
@@ -11,20 +11,17 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
-.markdown a {
-color: var(--color-indigo);
-}
-.markdown a.anchor {
-color: var(--color-indigo);
-}
-aside nav ul a {
-color: var(--color-indigo);
-}
-#headerbox .emoji {
-color: var(--color-indigo);
-}
 .tag {
   color: var(--color-indigo);
+}
+.emoji {
+  color: var(--color-indigo);
+}
+body article a {
+color: var(--color-indigo);
+}
+body article a a:visited {
+color: var(--color-indigo);
 }
 </style>
 

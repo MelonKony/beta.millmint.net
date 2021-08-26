@@ -15,16 +15,10 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 .tag {
   color: var(--color-pink);
 }
-.markdown a {
-color: var(--color-pink);
+.emoji {
+  color: var(--color-pink);
 }
-.markdown a.anchor {
-color: var(--color-pink);
-}
-aside nav ul a {
-color: var(--color-pink);
-}
-#headerbox .emoji {
+body article a {
 color: var(--color-pink);
 }
 .gt-container {

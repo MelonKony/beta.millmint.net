@@ -13,6 +13,12 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ---
 
 <style>
+.tag {
+  color: var(--color-red);
+}
+.emoji {
+  color: var(--color-red);
+}
 .markdown a {
 color: var(--color-red);
 }

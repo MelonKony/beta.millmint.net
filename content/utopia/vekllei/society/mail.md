@@ -1,5 +1,5 @@
 ---
-title: Mail
+title: The Royal Mail of Vekllei
 
 fulltitle: The Royal Mail of Vekllei
 emoji: -stamp
@@ -17,19 +17,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 .tag {
   color: #BA1D37;
 }
-.markdown a {
+.emoji {
+  color: #BA1D37;
+}
+body article a {
 color: #BA1D37;
 }
-.markdown a.anchor {
-color: #BA1D37;
-}
-aside nav ul a {
-color: #BA1D37;
-}
-#headerbox .emoji {
-color: #BA1D37;
-}
-.markdown a:visited {
+body article a a:visited {
 color: #BA1D37;
 }
 .gt-container {

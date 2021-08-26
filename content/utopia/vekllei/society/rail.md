@@ -1,5 +1,5 @@
 ---
-title: Railways
+title: The National Rail of Vekllei
 
 fulltitle: The National Rail of Vekllei
 emoji: -train
@@ -15,19 +15,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 .tag {
   color: #FF564F;
 }
-.markdown a {
+.emoji {
+  color: #FF564F;
+}
+body article a {
 color: #FF564F;
 }
-.markdown a.anchor {
-color: #FF564F;
-}
-aside nav ul a {
-color: #FF564F;
-}
-#headerbox .emoji {
-color: #FF564F;
-}
-.markdown a:visited {
+body article a a:visited {
 color: #FF564F;
 }
 .gt-container {

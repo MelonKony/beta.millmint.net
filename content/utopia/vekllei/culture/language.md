@@ -1,5 +1,5 @@
 ---
-title: Language
+title: Language in Vekllei
 weight: 2
 fulltitle: Language in Vekllei
 emoji: q
@@ -11,19 +11,16 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
-.markdown a {
+.tag {
+  color: var(--color-red);
+}
+.emoji {
+  color: var(--color-red);
+}
+body article a {
 color: var(--color-red);
 }
-.markdown a.anchor {
-color: var(--color-red);
-}
-aside nav ul a {
-color: var(--color-red);
-}
-#headerbox .emoji {
-color: var(--color-red);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-red);
 }
 .markdown .book-tabs input[type="radio"]:checked + label {
@@ -39,9 +36,6 @@ Part of the [Royal Mail's](/utopia/vekllei/society/mail/) sprawling printing com
 {{< hint red >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
-
-{{< toc >}}
-
 
 ## 1. Overview
 

@@ -1,5 +1,5 @@
 ---
-title: "Hong Kong"
+title: Not Long in Hong Kong
 
 fulltitle: Not Long in Hong Kong
 emoji: «
@@ -16,19 +16,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 .tag {
   color: var(--color-blue);
 }
-.markdown a {
+.emoji {
+  color: var(--color-blue);
+}
+body article a {
 color: var(--color-blue);
 }
-.markdown a.anchor {
-color: var(--color-blue);
-}
-aside nav ul a {
-color: var(--color-blue);
-}
-#headerbox .emoji {
-color: var(--color-blue);
-}
-.markdown a:visited {
+body article a a:visited {
 color: var(--color-blue);
 }
 </style>

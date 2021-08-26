@@ -1,5 +1,5 @@
 ---
-title: Vekllei
+title: The Utopia of Vekllei
 fulltitle: The Utopia of Vekllei
 emoji: -millmint
 tag: UTOPIA
@@ -11,37 +11,34 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ---
 
 <style>
-.markdown a {
-color: var(--color-pink);
+.tag {
+  color: var(--color-pink);
 }
-.markdown a.anchor {
-color: var(--color-pink);
+.emoji {
+  color: var(--color-pink);
 }
-aside nav ul a {
-color: var(--color-pink);
-}
-#headerbox .emoji {
+body article a {
 color: var(--color-pink);
 }
 /* flags */
 .row {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
 .column {
   flex: 33.33%;
   padding: 5px;
 }
 @media (max-width: 1250px) {
-    .row {
-    display: none;
-    }
-  }
-  .gt-container {
+  .row {
     display: none;
   }
+}
+
+.gt-container {
+  display: none;
+}
 </style>
 
 ![img](/images/missile.jpg)
