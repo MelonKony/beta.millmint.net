@@ -8861,7 +8861,7 @@ article img {
 /* rounded images */
 
 img {
-  border-radius: 10px;
+  border-radius: 5px;
   width: 100vw;
 }
 
@@ -8872,10 +8872,10 @@ img[alt=smallimg] {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 1rem;
-  width: 50%;
-  min-width: 300px;
+  width: 50% !important;
+  min-width: 300px !important;
   padding: 1rem;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 /* book hint section */
