@@ -1,20 +1,10 @@
 ---
-type: 'balloon'
-balloon_img_src: "icons/vase.svg"
-balloon_img_src_dark: "icons/vase_dark.svg"
-balloon_circle: false
-balloon_resources: "/about/"
-description: "Demo site of hugo-theme-monochrome"
-zooming_js: false
-keywords:
-- hugo
-- hugo theme
-- hugo theme monochrome
-- clean
-- responsive
-- programmer-friendly
+title: Home
+type: home
+layout: home
+description: Utopian storytelling by Studio MillMint.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 
-{{< svg-wrapper name="github" link="https://github.com/kaiiiz/hugo-theme-monochrome" />}}
-
-This is the demo of hugo-theme-monochrome.
+Hey what's up?
