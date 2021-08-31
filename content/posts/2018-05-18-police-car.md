@@ -12,7 +12,7 @@ keywords:
 image: /images/policecar.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/8kca7t/police_in_vekllei/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

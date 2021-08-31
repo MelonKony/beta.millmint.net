@@ -12,7 +12,7 @@ keywords:
 image: /images/spiritworld.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/764ir8/entering_the_spirit_world/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

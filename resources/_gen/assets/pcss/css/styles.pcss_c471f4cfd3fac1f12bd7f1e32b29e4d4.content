@@ -580,7 +580,7 @@ html {
 
 /* make site navbar stick around longer */
 
-@media (min-width: 800px) {
+@media (min-width: 200px) {
   .xl\:block {
     display: block !important;
   }
@@ -9163,6 +9163,10 @@ a.book-btn {
   padding: 0 1rem;
   margin-right: 0rem;
   margin-top: 0px;
+}
+
+article {
+  margin-bottom: 2rem;
 }
 
 @media (min-width: 640px) {

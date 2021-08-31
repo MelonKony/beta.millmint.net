@@ -12,7 +12,7 @@ keywords:
 image: /images/sketches/puffinlove.jpg
 ---
 {{< button href="https://www.reddit.com/user/MelonKony/comments/8zwexl/winter_love_puffin_feat_tzipora_akiko/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

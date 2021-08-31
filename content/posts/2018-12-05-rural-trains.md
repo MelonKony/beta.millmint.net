@@ -14,7 +14,7 @@ keywords:
 image: /images/sketches/ruraltrains.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/a3anhl/rural_trains/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

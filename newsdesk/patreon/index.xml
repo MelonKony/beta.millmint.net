@@ -26,7 +26,7 @@ color: var(--color-orange);
 &lt;/div&gt;
 &lt;h5 span class=&#34;tag gray&#34;&gt; COMIC &lt;/h5&gt;
 &lt;h6 span class=&#34;sitetag&#34;&gt;Story&lt;/h6&gt;
-&lt;p&gt;&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+&lt;p&gt;&lt;blockquote class=&#34;book-hint yellow&#34;&gt;
   ❖ &lt;strong&gt;Tip:&lt;/strong&gt; press the black circle in the menu to read in dark mode
 &lt;/blockquote&gt;
 

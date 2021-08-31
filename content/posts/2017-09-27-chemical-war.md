@@ -12,7 +12,7 @@ keywords:
 image: /images/chemicalwar.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/72lalc/chemical_warfare_in_2063_vekllei/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

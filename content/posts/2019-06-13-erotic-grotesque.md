@@ -12,7 +12,7 @@ keywords:
 image: /images/eroguro.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/c05k16/absolute_grotesque/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

@@ -419,7 +419,7 @@ color: var(--color-pink);
 &lt;i&gt;Home of &lt;/i&gt; ❖ Vekllei
 &lt;/h2&gt;
 &lt;/div&gt;
-&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+&lt;blockquote class=&#34;book-hint yellow&#34;&gt;
   &lt;strong&gt;❖ Welcome&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;Welcome to MillMint.net!&lt;/em&gt; This site is a wiki and archive for Hobart&amp;rsquo;s stories of &lt;strong&gt;utopia&lt;/strong&gt;.
 &lt;/blockquote&gt;
@@ -453,7 +453,7 @@ This wiki was created in October 2020 to provide a comprehensive resource to the
 &lt;p&gt;Forward site administration queries to Hobart on &lt;a href=&#34;https://www.reddit.com/r/vekllei&#34;&gt;Reddit&lt;/a&gt; or &lt;a href=&#34;https://www.discord.gg/dCE6vSU&#34;&gt;Discord&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Special thanks to Ben R. for his help with the parallax header and M. Tirado for technical support.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+&lt;blockquote class=&#34;book-hint yellow&#34;&gt;
   &lt;strong&gt;❖ Site Status 2020&lt;/strong&gt;&lt;br&gt;
 Many pages on this site are under construction and incomplete. Unless the article is flagged as completed, you should consider unfinished work subject to change.
 &lt;/blockquote&gt;
