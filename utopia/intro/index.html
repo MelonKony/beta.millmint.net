@@ -48,7 +48,7 @@
 <meta name="twitter:title" content="Intro"/>
 <meta name="twitter:description" content="An intro to the world of Vekllei, a utopia created by Hobart Phillips."/>
 
-    <link rel="stylesheet" href="/css/styles.min.b31db1f29d5e1887234607ffad5ade46ebd93478636865ea336fcad9a841223ac3b30a18d6e99f730cb33502aba54a4bc80ece8a201b30ac9a3b7489bebd054a.css" integrity="sha512-sx2x8p1eGIcjRgf/rVreRuvZNHhjaGXqM2/K2ahBIjrDswoY1umfcwyzNQKrpUpLyA7OiiAbMKyaO3SJvr0FSg==">
+    <link rel="stylesheet" href="/css/styles.min.3015391b251cda722fe5532d62c9a5fd879f56937971af12a57e40b8bf7a73c29e19794ce1510bd5c4d0412cf21b83f4585cf90554b8701682e5812b9eb4310c.css" integrity="sha512-MBU5GyUc2nIv5VMtYsml/YefVpN5ca8SpX5AuL96c8KeGXlM4VEL1cTQQSzyG4P0WFz5BVS4cBaC5YErnrQxDA==">
 
 
 
@@ -62,6 +62,13 @@
             document.documentElement.classList.remove('dark');
         }
     </script>
+
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+    
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 
     <link type="text/css" rel="stylesheet" href="/css/fonts.css" />
     <link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
@@ -374,47 +381,34 @@
 
 <article >
     <style>
-.markdown a {
-color: var(--color-red);
+.tag {
+  color: var(--color-pink);
 }
-.markdown a.anchor {
-color: var(--color-red);
+.emoji {
+  color: var(--color-pink);
 }
-aside nav ul a {
-color: var(--color-red);
+body article a {
+color: var(--color-pink);
 }
-#headerbox .emoji {
-color: var(--color-red);
-}
-
-.markdown img[alt=smallimg]{
-  display: block;
+/* flags */
+.row {
+  display: flex;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
-
-/* coins */
-.row {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  // row background colour fix //
-  .row img {
-    padding: 0;
-    background-color: transparent;
-  }
-
 .column {
   flex: 33.33%;
   padding: 5px;
 }
 @media (max-width: 1250px) {
-    .row {
+  .row {
     display: none;
-    }
   }
+}
+
+.gt-container {
+  display: none;
+}
 </style>
 <p><img src="/images/intro.gif" alt="Intro GIF"></p>
 <blockquote class="book-hint red">
@@ -539,8 +533,8 @@ I thought it was Hell.</i></blockquote>
         <div class="mb-8">
             <h1 class="font-bold text-2xl">0001</h1><ul class="my-2">
     
-        <li class="mb-2 leading-relaxed list-item"
-        style= "
+        <li class="mb-2 leading-relaxed list-item" style= "
+
         min-width: 100%;
         object-fit:cover;
         background-color: var(--gray-100);
@@ -552,7 +546,7 @@ I thought it was Hell.</i></blockquote>
         margin-right: auto;
 
         ">
-        <a style="font-size: 1rem; font-weight: 700; color: var(--body-font-color);" href="/utopia/intro/faq/" href="/utopia/intro/faq/" class="text-base border-b-2">FAQ</a>
+            <a style="font-size: 1rem; font-weight: 700; color: var(--body-font-color);" href="/utopia/intro/faq/" href="/utopia/intro/faq/" class="text-base border-b-2">FAQ</a>
             <span class="text-xs">0001/01/01</span>
             <div>
   
@@ -571,7 +565,6 @@ I thought it was Hell.</i></blockquote>
                     
                 
             </div><ul  class="breadcrumbs">
-  <a class="home" href="/">Home</a>
     
 
 

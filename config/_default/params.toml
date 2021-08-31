@@ -19,3 +19,6 @@ author = "Hobart Phillips"
 # Collapsible Menu
 enableCollapsibleTOC = false
 enableCollapsibleChangelogs = true
+
+# Number of posts
+paginate = 20

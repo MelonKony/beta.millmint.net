@@ -12,49 +12,35 @@ description: An intro to the world of Vekllei, a utopia created by Hobart Philli
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
 <style>
-.markdown a {
-color: var(--color-red);
+.tag {
+  color: var(--color-pink);
 }
-.markdown a.anchor {
-color: var(--color-red);
+.emoji {
+  color: var(--color-pink);
 }
-aside nav ul a {
-color: var(--color-red);
+body article a {
+color: var(--color-pink);
 }
-#headerbox .emoji {
-color: var(--color-red);
-}
-
-.markdown img[alt=smallimg]{
-  display: block;
+/* flags */
+.row {
+  display: flex;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
-
-/* coins */
-.row {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  // row background colour fix //
-  .row img {
-    padding: 0;
-    background-color: transparent;
-  }
-
 .column {
   flex: 33.33%;
   padding: 5px;
 }
 @media (max-width: 1250px) {
-    .row {
+  .row {
     display: none;
-    }
   }
+}
+
+.gt-container {
+  display: none;
+}
 </style>
 
 ![Intro GIF](/images/intro.gif)
