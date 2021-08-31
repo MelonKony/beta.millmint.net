@@ -8937,7 +8937,7 @@ article blockquote h4 {
   margin-top: 0;
 }
 
-blockquote {
+body article blockquote {
   -webkit-border-start: 0.25rem solid var(--gray-200);
           border-inline-start: 0.25rem solid var(--gray-200);
   color: var(--body-font-light);
