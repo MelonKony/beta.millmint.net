@@ -331,7 +331,7 @@ Vekllei is spoken by around 25 million people, and a further 800,000 people arou
 {{</hint>}}
 
 {{< hint red >}}
-❖ Main article: *[Religion in Vekllei](/utopia/vekllei/religion/)*
+❖ Main article: *[Religion in Vekllei](/utopia/vekllei/culture/religion/)*
 {{< /hint >}}
 
 *Upen* is the nondenominational animism of Vekllei, and is practiced nearly universally throughout the country in various forms and traditions. As much a secular cultural tradition as an organised religion, *Upen* coexists alongside abrahamic and miscellaneous faiths in the country, integrating most immigrant populations in Vekllei into its scripture on landscape and *sumoismiaya*, or the "spirit of things."

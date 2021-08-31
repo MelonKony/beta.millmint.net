@@ -155,7 +155,7 @@
 <meta name="twitter:title" content="Home"/>
 <meta name="twitter:description" content="Utopian storytelling by Studio MillMint."/>
 
-    <link rel="stylesheet" href="/css/styles.min.224df6582f5cb592cb86b7278a36939a4d6eecb10be6cdcd91a81258ca2dad6307f859dd7fa71f8f611edae87761f0dfad46774b2b63e78bdc4ccf3177479eb1.css" integrity="sha512-Ik32WC9ctZLLhrcnijaTmk1u7LEL5s3NkagSWMotrWMH+Fndf6cfj2Ee2uh3YfDfrUZ3Sytj54vcTM8xd0eesQ==">
+    <link rel="stylesheet" href="/css/styles.min.7f2700947e3917376f8b584625770cff7b702da83d34024506387769e0ca74d31915ab7f3163c563537302ad1a1b29157afd4dea47caa4d23b1ec53c73640f2a.css" integrity="sha512-fycAlH45Fzdvi1hGJXcM/3twLag9NAJFBjh3aeDKdNMZFat/MWPFY1NzAq0aGykVev1N6kfKpNI7HsU8c2QPKg==">
 
 
 
@@ -182,8 +182,29 @@
     <link type="text/css" rel="stylesheet" href="/css/nav.css" />
     <link type="text/css" rel="stylesheet" href="/css/comments.css" />
 </head>
-<body class="flex flex-col items-center w-full">
-          <main class="w-full sm:w-10/12 md:w-9/12 lg:w-7/12 xl:w-5/12 m-auto px-6"><header class="mt-9 mb-8">
+<style>
+        .gt-container {
+          display: none;
+        }
+        body header #dark_mode_btn, body header #light_mode_btn, body header #translation_wrapper, body header #search_btn, body header #search_menu_close_btn {
+          fill: white;
+      }
+      header .sep {
+        border-color: white;
+      }
+      header .menu-btn {
+        display: none;
+      }
+      body header .navbar-item-dropdown.inactive, body header .navbar-item.inactive {
+        color: #f7f6f6;
+      }
+      body header .navbar-item-dropdown.inactive, body header .navbar-item.inactive {
+        fill: white;
+      }
+      </style>
+      <body class="flex flex-col items-center w-full">
+          <main class="w-full sm:w-10/12 md:w-9/12 lg:w-7/12 xl:w-5/12 m-auto px-6">
+            <div style="position: absolute; top:0; color: white;"><header class="mt-9 mb-8">
     <div class="flex justify-between items-center">
         <div class="flex items-center">
             <input id="navbar_btn" class="hidden" type="checkbox">
@@ -455,7 +476,8 @@
         <hr class="my-4">
     </nav>
 </header>
-<div id="content" class="my-8">
+</div>
+              <div id="content" class="my-8">
                   
 
                   

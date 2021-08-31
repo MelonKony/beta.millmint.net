@@ -61,9 +61,31 @@
   <!DOCTYPE html>
   <html class="h-full w-full font-sans" lang='{{ .Site.LanguageCode }}'>
       {{- partial "head.html" . -}}
+      <style>
+        .gt-container {
+          display: none;
+        }
+        body header #dark_mode_btn, body header #light_mode_btn, body header #translation_wrapper, body header #search_btn, body header #search_menu_close_btn {
+          fill: white;
+      }
+      header .sep {
+        border-color: white;
+      }
+      header .menu-btn {
+        display: none;
+      }
+      body header .navbar-item-dropdown.inactive, body header .navbar-item.inactive {
+        color: #f7f6f6;
+      }
+      body header .navbar-item-dropdown.inactive, body header .navbar-item.inactive {
+        fill: white;
+      }
+      </style>
       <body class="flex flex-col items-center w-full">
           <main class="w-full sm:w-10/12 md:w-9/12 lg:w-7/12 xl:w-5/12 m-auto px-6">
+            <div style="position: absolute; top:0; color: white;">
               {{- partial "header.html" . -}}
+            </div>
               <div id="content" class="my-8">
                   {{ if .Params.changelogs }}
                       {{ $enableCollapsibleChangelogs := (.Scratch.Get "params").enableCollapsibleChangelogs }}

@@ -619,7 +619,6 @@ ul.pagination {
 
 .pagination .page-item {
   padding: 0px 10px 0px 10px;
-  margin-top: 0.5rem;
   margin-left: 0;
   margin-right: 0;
   color: var(--color-gray);
@@ -8932,6 +8931,10 @@ article img[alt~="smallimg"] {
   -webkit-border-start: none;
           border-inline-start: none;
   border-radius: .25rem;
+}
+
+article blockquote h4 {
+  margin-top: 0;
 }
 
 blockquote {
