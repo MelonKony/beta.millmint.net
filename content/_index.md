@@ -7,20 +7,33 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 
-<img class="hero" src="/images/mastheads/princess.png">
 
-<--->
+<div class="emoji" id="whirlybat" style="text-align: center;">-atom</div>
 
-<div class="homepage">
-	<h1>Studio</h1>
-	<h1><i> MillMint</i></h1>
-	<h2>スタジオミルミント</h2>
-	<div style="display:table; margin:0 auto; padding: 10px;">
-		<span class="dot-pink"></span>
-		<span class="dot-orange"></span>
-		<span class="dot-yellow"></span>
-		<span class="dot-green"></span>
-		<span class="dot-blue"></span>
-	</div>
-	<h4><a href="/utopia/intro/">INTRO</a> • <a href="/utopia/vekllei">UTOPIA</a> • <a href="/newsdesk/about/">NEWSDESK</a> • <a href="/posts/">POSTS</a></h4>
-</div>
+# Welcome to MillMint.net
+This website is a repository for the work of [Hobart Phillips](/newsdesk/about), best known for [Vekllei](/utopia/vekllei). Visit the menu above to learn more about my work.
+
+<style>
+.headerbox {
+	display: none;
+}
+.emoji {
+  grid-area: emoji;
+  font-family: 'Whirlybats';
+	font-weight: normal;
+	font-style: normal;
+	font-feature-settings: 'liga';
+  text-align: center;
+	display: inline-block;
+	white-space: nowrap;
+	word-wrap: normal;
+	margin-right: 55px;
+  margin-left: 55px;
+	letter-spacing: -75px;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	-moz-osx-font-smoothing: grayscale;
+	float: right;
+	font-size: 75px;
+}
+</style>

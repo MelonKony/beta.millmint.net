@@ -66,20 +66,26 @@
           display: none;
         }
         body header #dark_mode_btn, body header #light_mode_btn, body header #translation_wrapper, body header #search_btn, body header #search_menu_close_btn {
+            fill: white;
+        }
+        header .sep {
+          border-color: white;
+        }
+        header .menu-btn {
+          display: none;
+        }
+        body header .navbar-item-dropdown.inactive, body header .navbar-item.inactive {
+          color: #f7f6f6;
+        }
+        body header .navbar-item-dropdown.inactive, body header .navbar-item.inactive {
           fill: white;
-      }
-      header .sep {
-        border-color: white;
-      }
-      header .menu-btn {
-        display: none;
-      }
-      body header .navbar-item-dropdown.inactive, body header .navbar-item.inactive {
-        color: #f7f6f6;
-      }
-      body header .navbar-item-dropdown.inactive, body header .navbar-item.inactive {
-        fill: white;
-      }
+        }
+        .text-lg {
+          font-size: 2rem;
+        }
+        .text-sm {
+          font-size: 1rem;
+        }
       </style>
       <body class="flex flex-col items-center w-full">
           <main class="w-full sm:w-10/12 md:w-9/12 lg:w-7/12 xl:w-5/12 m-auto px-6">
@@ -92,7 +98,7 @@
                       {{ partial "collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enableCollapsibleChangelogs) }}
                   {{ end }}
 
-                  {{- block "content" . }}{{- end }}
+                  {{- partial "content" . }}
 
                   {{ if eq .Kind "page" }}
                       {{ if (.Params.disqus | default .Site.DisqusShortname) }}
