@@ -42,8 +42,8 @@
             {{ if (.Scratch.Get "params").enableSiteSearch }}
                 <div class="ml-2 sep hidden sm:block"></div>
                 <div class="ml-2 relative flex items-center">
-                    <svg id="search_btn" class="cursor-pointer" width="18px" height="18px" viewBox="2 0 20 20">
-                        {{- partial "svg/search.html" -}}
+                  {{ partial "search" . }}
+                    <svg id="search_btn" class="cursor-pointer" width="18px" style="position: absolute; margin-left: 10px; float: left;" height="18px" viewBox="2 0 20 20">
                     </svg>
                     {{- partial "search-menu.html" -}}
                 </div>

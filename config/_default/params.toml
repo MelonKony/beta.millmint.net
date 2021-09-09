@@ -22,3 +22,6 @@ enableCollapsibleChangelogs = true
 
 # Number of posts
 paginate = 20
+
+# Search
+search = true

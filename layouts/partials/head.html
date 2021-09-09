@@ -38,6 +38,13 @@
         {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
 
+    {{- if default true .Site.Params.Search -}}
+      {{- $searchJSFile := printf "%s.search.js" .Language.Lang }}
+      {{- $searchJS := resources.Get "search.js" | resources.ExecuteAsTemplate $searchJSFile . | resources.Minify | resources.Fingerprint }}
+      <script defer src="{{ "flexsearch.min.js" | relURL }}"></script>
+      <script defer src="{{ $searchJS.RelPermalink }}" {{ template "integrity" $searchJS }}></script>
+    {{ end -}}
+
     {{/*  Dark theme: inline in `head` to avoid FOUC  */}}
     <script>
         if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
@@ -61,4 +68,16 @@
     <link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
     <link type="text/css" rel="stylesheet" href="/css/nav.css" />
     <link type="text/css" rel="stylesheet" href="/css/comments.css" />
+
+    <!-- RSS -->
+    {{- with .OutputFormats.Get "rss" -}}
+      {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+
+    {{- define "integrity" -}}
+      {{- if (urls.Parse .Permalink).Host -}}
+        integrity="{{ .Data.Integrity }}" crossorigin="anonymous"
+      {{- end -}}
+    {{- end -}}
+
 </head>

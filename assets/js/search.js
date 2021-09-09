@@ -31,13 +31,13 @@ async function init() {
         index: ["title","content"],
         tokenize: 'forward',
         encode: str => str.replace(/[^\x00-\x7F]/g, "").split(" "),
-        store: true,
+        store: ['title', 'href', 'section']
     });
     const nonascii_index = new Document({
         id: "id",
         index: ["title","content"],
         encode: str => str.replace(/[\x00-\x7F]/g, "").split(""),
-        store: true,
+        store: ['title', 'href', 'section']
     });
     index_json.forEach(post => {
         post.id = id++;
@@ -56,12 +56,7 @@ async function init() {
         item_title.className = "search-menu-result-item-title";
         item_title.innerHTML = title;
 
-        const item_content = document.createElement("div");
-        item_content.className = "search-menu-result-item-content";
-        item_content.innerHTML = content;
-
         item_link.appendChild(item_title);
-        item_link.appendChild(item_content);
         item.appendChild(item_link);
 
         return item;
