@@ -1,5 +1,5 @@
 ---
-title: The Borough of Santes
+title: Santes
 
 fulltitle: The Borough of Santes
 emoji: ←

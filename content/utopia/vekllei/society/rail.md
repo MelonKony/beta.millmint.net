@@ -1,5 +1,5 @@
 ---
-title: The National Rail of Vekllei
+title: Rail
 
 fulltitle: The National Rail of Vekllei
 emoji: -train

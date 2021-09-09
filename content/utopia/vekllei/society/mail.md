@@ -1,5 +1,5 @@
 ---
-title: The Royal Mail of Vekllei
+title: Mail
 
 fulltitle: The Royal Mail of Vekllei
 emoji: -stamp

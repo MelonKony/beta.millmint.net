@@ -1,5 +1,5 @@
 ---
-title: The Borough of Miyatvousi
+title: Miyatvousi
 
 fulltitle: The Borough of Miyatvousi
 emoji: ←

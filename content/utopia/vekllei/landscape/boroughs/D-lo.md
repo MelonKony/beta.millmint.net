@@ -1,5 +1,5 @@
 ---
-title: The Borough of Lo
+title: Lo
 
 fulltitle: The Borough of Lo
 emoji: ←

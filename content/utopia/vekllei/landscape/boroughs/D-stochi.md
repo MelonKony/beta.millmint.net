@@ -1,5 +1,5 @@
 ---
-title: The Borough of Stochi
+title: Stochi
 
 fulltitle: The Borough of Stochi
 emoji: ←

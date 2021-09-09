@@ -1,5 +1,5 @@
 ---
-title: The Borough of Mirah
+title: Mirah
 
 fulltitle: The Borough of Mirah
 emoji: ←

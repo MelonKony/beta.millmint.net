@@ -1,5 +1,5 @@
 ---
-title: The Borough of Troll
+title: Troll
 
 fulltitle: The Borough of Troll
 emoji: ←

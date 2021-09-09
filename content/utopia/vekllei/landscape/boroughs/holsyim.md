@@ -1,5 +1,5 @@
 ---
-title: The Borough of Holsyim
+title: Holsyim
 
 fulltitle: The Borough of Holsyim
 emoji: ←

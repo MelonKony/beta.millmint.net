@@ -1,5 +1,5 @@
 ---
-title: The Borough of Bakur
+title: Bakur
 
 fulltitle: The Borough of Bakur
 emoji: ←

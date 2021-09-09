@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Epoch of Rest
+title: Intro
 fulltitle: Welcome to the Epoch of Rest
 emoji: S
 

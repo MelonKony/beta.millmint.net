@@ -1,5 +1,5 @@
 ---
-title: The Borough of Voya Voya
+title: Voya Voya
 
 fulltitle: The Borough of Voya Voya
 emoji: ←

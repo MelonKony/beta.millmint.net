@@ -1,5 +1,5 @@
 ---
-title: The Borough of Totoyan
+title: Totoyan
 
 fulltitle: The Borough of Totoyan
 emoji: ←

@@ -1,5 +1,5 @@
 ---
-title: The Borough of Eyri
+title: Eyri
 
 fulltitle: The Borough of Eyri
 emoji: ←

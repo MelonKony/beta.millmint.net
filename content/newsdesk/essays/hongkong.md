@@ -1,5 +1,5 @@
 ---
-title: Not Long in Hong Kong
+title: Hong Kong
 
 fulltitle: Not Long in Hong Kong
 emoji: «

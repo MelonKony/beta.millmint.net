@@ -1,5 +1,5 @@
 ---
-title: The Borough of Lita
+title: Lita
 
 fulltitle: The Borough of Lita
 emoji: ←

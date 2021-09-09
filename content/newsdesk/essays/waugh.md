@@ -1,5 +1,5 @@
 ---
-title: Landscape in the Age of Frustration
+title: Waugh
 
 fulltitle: Landscape in the Age of Frustration
 emoji: -pipe

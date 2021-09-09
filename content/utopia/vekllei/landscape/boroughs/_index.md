@@ -1,5 +1,5 @@
 ---
-title: The Boroughs of Vekllei
+title: Boroughs
 fulltitle: The Boroughs of Vekllei
 emoji: ←
 tag: LANDSCAPE

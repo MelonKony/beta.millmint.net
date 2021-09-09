@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Boroughs of Vekllei on MillMint</title>
+    <title>Boroughs on MillMint</title>
     <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/</link>
-    <description>Recent content in The Boroughs of Vekllei on MillMint</description>
+    <description>Recent content in Boroughs on MillMint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://beta.millmint.net/utopia/vekllei/landscape/boroughs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Borough of Bakur</title>
+      <title>Bakur</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/bakur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -84,7 +84,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Eyri</title>
+      <title>Eyri</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/eyri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -163,7 +163,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Holsyim</title>
+      <title>Holsyim</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/holsyim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -240,7 +240,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Kyala</title>
+      <title>Kyala</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/d-kyala/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -327,7 +327,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Lita</title>
+      <title>Lita</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/lita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -404,7 +404,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Lo</title>
+      <title>Lo</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/d-lo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -504,7 +504,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Mirah</title>
+      <title>Mirah</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/mirah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -581,7 +581,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Miyatvousi</title>
+      <title>Miyatvousi</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/miyatvousi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -680,7 +680,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Mumen</title>
+      <title>Mumen</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/mumen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -760,7 +760,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Ou</title>
+      <title>Ou</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/ou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -873,7 +873,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Santes</title>
+      <title>Santes</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/santes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -973,7 +973,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Stochi</title>
+      <title>Stochi</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/d-stochi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1091,7 +1091,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Totoyan</title>
+      <title>Totoyan</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/d-totoyan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1188,7 +1188,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Troll</title>
+      <title>Troll</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/troll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1291,7 +1291,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Voya Voya</title>
+      <title>Voya Voya</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/voya-voya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1391,7 +1391,7 @@ color: var(--color-green);
     </item>
     
     <item>
-      <title>The Borough of Yana</title>
+      <title>Yana</title>
       <link>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/yana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

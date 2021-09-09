@@ -1,5 +1,5 @@
 ---
-title: A Universal Nostalgia — Spatiality Across Studio Ghibli
+title: Ghibli
 
 fulltitle: A Universal Nostalgia — Spatiality Across Studio Ghibli
 emoji: V

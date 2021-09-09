@@ -1,5 +1,5 @@
 ---
-title: The Borough of Yana
+title: Yana
 
 fulltitle: The Borough of Yana
 emoji: ←

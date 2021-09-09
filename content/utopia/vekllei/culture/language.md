@@ -1,5 +1,5 @@
 ---
-title: Language in Vekllei
+title: Language
 weight: 2
 fulltitle: Language in Vekllei
 emoji: q

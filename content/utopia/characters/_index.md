@@ -1,5 +1,5 @@
 ---
-title: Cast of Characters
+title: Characters
 
 fulltitle: Cast of Characters
 emoji: ¥

@@ -1,5 +1,5 @@
 ---
-title: The Utopia of Vekllei
+title: Vekllei
 fulltitle: The Utopia of Vekllei
 emoji: -millmint
 tag: UTOPIA

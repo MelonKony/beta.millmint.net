@@ -1,5 +1,5 @@
 ---
-title: About the Author
+title: About
 weight: "1"
 fulltitle: About the Author
 emoji: v

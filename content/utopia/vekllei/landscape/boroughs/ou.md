@@ -1,5 +1,5 @@
 ---
-title: The Borough of Ou
+title: Ou
 
 fulltitle: The Borough of Ou
 emoji: ←

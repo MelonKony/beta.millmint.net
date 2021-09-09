@@ -1,5 +1,5 @@
 ---
-title: The Borough of Mumen
+title: Mumen
 
 fulltitle: The Borough of Mumen
 emoji: ←

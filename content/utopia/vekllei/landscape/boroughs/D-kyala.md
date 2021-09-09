@@ -1,5 +1,5 @@
 ---
-title: The Borough of Kyala
+title: Kyala
 
 fulltitle: The Borough of Kyala
 emoji: ←
