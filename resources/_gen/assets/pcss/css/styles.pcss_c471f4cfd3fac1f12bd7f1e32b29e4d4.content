@@ -574,7 +574,7 @@ html {
 
 @media (min-width: 1280px) {
   .xl\:w-5\/12 {
-    width: 45.666667%;
+    width: 50.666667% !important;
   }
 }
 
@@ -8789,12 +8789,6 @@ article img {
 
 /* body */
 
-@media (min-width: 1280px) {
-  .xl\:w-5\/12 {
-    width: 45.666667% !important;
-  }
-}
-
 body {
   line-height: 1.67059;
   font-size: 17px;
@@ -9014,6 +9008,7 @@ body article blockquote {
 .book-hint.caption {
   margin-left: 0;
   margin-right: 0;
+  margin-bottom: 0.5rem;
   color: var(--body-font-light);
   background-color: var(--body-background);
   -webkit-border-start: 0rem solid var(--body-background);

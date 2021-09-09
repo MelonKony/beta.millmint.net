@@ -342,7 +342,11 @@ Although most people in the country observe *Upen* apolitically, several other r
 
 ### Education
 
-![smallimg](/images/uniform.jpg)
+![img](/images/generation.jpg)
+
+{{< hint caption >}}
+Students in the uniform of Vekllei government schools | *[A New Generation](/posts/2021-08-21-generation/)*
+{{</hint>}}
 
 Education in Vekllei is structured as a *State Requisite Bureau* (rather than department) under the *requoisesiasn amourisocietie scolastie*, or A.r.E. Schooling is mandatory and universal between the ages of 5 and 14, and most schools in the country serve all ages between these years. All schools in Vekllei, aside from a half-dozen religious schools, are coeducational and operated directly by the A.r.E.
 
