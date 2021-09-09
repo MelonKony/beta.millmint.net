@@ -4,7 +4,7 @@ title: The Borough of Totoyan
 fulltitle: The Borough of Totoyan
 emoji: ←
 tag: LANDSCAPE
-sitetag: Introduction
+sitetag: Boroughs
 
 weight: 1
 bookHidden: true

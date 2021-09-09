@@ -4,7 +4,7 @@ title: The Borough of Holsyim
 fulltitle: The Borough of Holsyim
 emoji: ←
 tag: LANDSCAPE
-sitetag: Introduction
+sitetag: Boroughs
 
 weight: 1
 bookHidden: true

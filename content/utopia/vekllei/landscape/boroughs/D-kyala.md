@@ -4,7 +4,7 @@ title: The Borough of Kyala
 fulltitle: The Borough of Kyala
 emoji: ←
 tag: LANDSCAPE
-sitetag: Introduction
+sitetag: Boroughs
 
 weight: 1
 bookHidden: true

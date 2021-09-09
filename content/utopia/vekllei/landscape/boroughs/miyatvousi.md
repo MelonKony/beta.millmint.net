@@ -4,7 +4,7 @@ title: The Borough of Miyatvousi
 fulltitle: The Borough of Miyatvousi
 emoji: ←
 tag: LANDSCAPE
-sitetag: Introduction
+sitetag: Boroughs
 
 weight: 1
 bookHidden: true

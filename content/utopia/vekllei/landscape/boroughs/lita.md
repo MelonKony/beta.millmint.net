@@ -4,7 +4,7 @@ title: The Borough of Lita
 fulltitle: The Borough of Lita
 emoji: ←
 tag: LANDSCAPE
-sitetag: Introduction
+sitetag: Boroughs
 
 weight: 1
 bookHidden: true

@@ -4,7 +4,7 @@ title: The Borough of Eyri
 fulltitle: The Borough of Eyri
 emoji: ←
 tag: LANDSCAPE
-sitetag: Introduction
+sitetag: Boroughs
 
 weight: 1
 bookHidden: true

@@ -4,7 +4,7 @@ title: The Borough of Voya Voya
 fulltitle: The Borough of Voya Voya
 emoji: ←
 tag: LANDSCAPE
-sitetag: Introduction
+sitetag: Boroughs
 
 weight: 1
 bookHidden: true

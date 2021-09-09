@@ -4,7 +4,7 @@ title: The Borough of Bakur
 fulltitle: The Borough of Bakur
 emoji: ←
 tag: LANDSCAPE
-sitetag: Introduction
+sitetag: Boroughs
 
 weight: 1
 bookHidden: true

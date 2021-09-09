@@ -4,7 +4,7 @@ title: The Borough of Mirah
 fulltitle: The Borough of Mirah
 emoji: ←
 tag: LANDSCAPE
-sitetag: Introduction
+sitetag: Boroughs
 
 weight: 1
 bookHidden: true

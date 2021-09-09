@@ -4,7 +4,7 @@ title: The Borough of Mumen
 fulltitle: The Borough of Mumen
 emoji: ←
 tag: LANDSCAPE
-sitetag: Introduction
+sitetag: Boroughs
 
 weight: 1
 bookHidden: true

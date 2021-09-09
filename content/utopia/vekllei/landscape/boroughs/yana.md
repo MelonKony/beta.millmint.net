@@ -4,7 +4,7 @@ title: The Borough of Yana
 fulltitle: The Borough of Yana
 emoji: ←
 tag: LANDSCAPE
-sitetag: Introduction
+sitetag: Boroughs
 
 weight: 1
 bookHidden: true

@@ -4,7 +4,7 @@ title: The Borough of Troll
 fulltitle: The Borough of Troll
 emoji: ←
 tag: LANDSCAPE
-sitetag: Introduction
+sitetag: Boroughs
 
 weight: 1
 bookHidden: true
