@@ -9245,6 +9245,37 @@ body .collapsible-menu-wrapper {
   opacity: 0.5;
 }
 
+#book-search-results {
+  margin-top: 0.25rem;
+  position: absolute;
+  background-color: var(--body-background);
+  z-index: 11;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  border-radius: 0.125rem;
+  --tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.book-search ul li {
+  font-size: 16px;
+  line-height: 1.4rem;
+  padding: 0.25rem 1rem 0.25rem 1rem;
+}
+
+.book-search ul {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.book-search small {
+  opacity: 0.5;
+  display: block;
+}
+
 @media (min-width: 640px) {
   .sm\:static {
     position: static;
