@@ -486,18 +486,6 @@ color: var(--color-red);
       
       <guid>https://beta.millmint.net/utopia/vekllei/society/mail/</guid>
       <description>&lt;style&gt;
-.tag {
-  color: #BA1D37;
-}
-.emoji {
-  color: #BA1D37;
-}
-body article a {
-color: #BA1D37;
-}
-body article a a:visited {
-color: #BA1D37;
-}
 .gt-container {
   display: none;
 }
@@ -1022,18 +1010,6 @@ The Mail would not come to resemble conventional civilian Mail until 1652, when 
       
       <guid>https://beta.millmint.net/utopia/vekllei/society/rail/</guid>
       <description>&lt;style&gt;
-.tag {
-  color: #FF564F;
-}
-.emoji {
-  color: #FF564F;
-}
-body article a {
-color: #FF564F;
-}
-body article a a:visited {
-color: #FF564F;
-}
 .gt-container {
   display: none;
 }

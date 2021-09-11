@@ -5,6 +5,7 @@ fulltitle: The Borough of Lita
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
+color: green
 
 weight: 1
 bookHidden: true
@@ -13,25 +14,6 @@ description: The borough of Lo is an administrative region of Vekllei, a utopian
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.tag {
-  color: var(--color-green);
-}
-.emoji {
-  color: var(--color-green);
-}
-body article a {
-color: var(--color-green);
-}
-body article a a:visited {
-color: var(--color-green);
-}
-.markdown a.book-btn {
-  color: var(--color-green);
-  border: 1px solid var(--color-green);
-  float: right;
-}
-</style>
 
 ![smallimg](/images/rocket.jpg)
 

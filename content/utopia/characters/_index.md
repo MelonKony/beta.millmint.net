@@ -5,6 +5,7 @@ fulltitle: Cast of Characters
 emoji: ¥
 tag: UTOPIA
 sitetag: Introduction
+color: pink
 
 weight: 2
 description: The people of Vekllei, a utopia created by Hobart Phillips.
@@ -12,15 +13,6 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
-.tag {
-  color: var(--color-pink);
-}
-.emoji {
-  color: var(--color-pink);
-}
-body article a {
-color: var(--color-pink);
-}
 .gt-container {
   display: none;
 }

@@ -5,6 +5,7 @@ fulltitle: Landscape in the Age of Frustration
 emoji: -pipe
 tag: ESSAY
 sitetag: Newsdesk
+color: blue
 
 weight: 2
 
@@ -12,20 +13,6 @@ description: An essay on landscape in Evelyn Waugh's novel "Handful of Dust" by 
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.tag {
-  color: var(--color-blue);
-}
-.emoji {
-  color: var(--color-blue);
-}
-body article a {
-color: var(--color-blue);
-}
-body article a a:visited {
-color: var(--color-blue);
-}
-</style>
 
 {{< hint blue >}}
 **❖ Note from the Editor**

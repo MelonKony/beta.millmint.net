@@ -5,6 +5,7 @@ emoji: S
 
 tag: UTOPIA
 sitetag: Introduction
+color: pink
 
 weight: 1
 
@@ -13,15 +14,6 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
-.tag {
-  color: var(--color-pink);
-}
-.emoji {
-  color: var(--color-pink);
-}
-body article a {
-color: var(--color-pink);
-}
 /* flags */
 .row {
   display: flex;

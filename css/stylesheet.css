@@ -1,0 +1,7 @@
+article img[alt~="smallimg"] {
+	margin-bottom: 1rem;
+	width: 50%;
+	min-width: 300px;
+	padding: 1rem;
+  border-radius: 5px;
+}

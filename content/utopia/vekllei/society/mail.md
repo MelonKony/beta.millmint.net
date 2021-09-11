@@ -5,6 +5,7 @@ fulltitle: The Royal Mail of Vekllei
 emoji: -stamp
 tag: SOCIETY
 sitetag: Article
+color: mail
 
 weight: 2
 bookHidden: false
@@ -14,18 +15,6 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
-.tag {
-  color: #BA1D37;
-}
-.emoji {
-  color: #BA1D37;
-}
-body article a {
-color: #BA1D37;
-}
-body article a a:visited {
-color: #BA1D37;
-}
 .gt-container {
   display: none;
 }

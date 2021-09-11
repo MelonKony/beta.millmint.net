@@ -1,10 +1,11 @@
 ---
 title: Ghibli
 
-fulltitle: A Universal Nostalgia — Spatiality Across Studio Ghibli
+fulltitle: A Universal Nostalgia
 emoji: V
 tag: ESSAY
 sitetag: Newsdesk
+color: blue
 
 weight: 1
 
@@ -12,20 +13,6 @@ description: An essay on spatiality in the films of Studio Ghibli by Hobart Phil
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.tag {
-  color: var(--color-blue);
-}
-.emoji {
-  color: var(--color-blue);
-}
-body article a {
-color: var(--color-blue);
-}
-body article a a:visited {
-color: var(--color-blue);
-}
-</style>
 
 {{< hint blue >}}
 **❖ Note from the Editor**

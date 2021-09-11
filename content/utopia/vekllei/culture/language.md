@@ -5,29 +5,12 @@ fulltitle: Language in Vekllei
 emoji: q
 tag: CULTURE
 sitetag: Article
+color: red
 
 description: The language of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.tag {
-  color: var(--color-red);
-}
-.emoji {
-  color: var(--color-red);
-}
-body article a {
-color: var(--color-red);
-}
-body article a a:visited {
-color: var(--color-red);
-}
-.markdown .book-tabs input[type="radio"]:checked + label {
-    border-bottom: 1px solid var(--color-red);
-}
-</style>
-
 ![img](/images/manufacturie.jpg)
 {{< hint caption >}}
 Part of the [Royal Mail's](/utopia/vekllei/society/mail/) sprawling printing complex. | *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*

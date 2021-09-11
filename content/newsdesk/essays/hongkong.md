@@ -5,6 +5,7 @@ fulltitle: Not Long in Hong Kong
 emoji: «
 tag: ESSAY
 sitetag: Newsdesk
+color: blue
 
 weight: 2
 
@@ -12,20 +13,6 @@ description: An essay on the 2020 Hong Kong Protests by Hobart Phillips, a utopi
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.tag {
-  color: var(--color-blue);
-}
-.emoji {
-  color: var(--color-blue);
-}
-body article a {
-color: var(--color-blue);
-}
-body article a a:visited {
-color: var(--color-blue);
-}
-</style>
 
 {{< hint blue >}}
 **❖ Note from the Editor**

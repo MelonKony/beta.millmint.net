@@ -4,24 +4,11 @@ fulltitle: The Boroughs of Vekllei
 emoji: ←
 tag: LANDSCAPE
 sitetag: Introduction
+color: green
 
 weight: 1
 bookHidden: false
 ---
-<style>
-.tag {
-  color: var(--color-green);
-}
-.emoji {
-  color: var(--color-green);
-}
-body article a {
-color: var(--color-green);
-}
-body article a a:visited {
-color: var(--color-green);
-}
-</style>
 
 ![img](/images/railmap.jpg)
 

@@ -4,6 +4,7 @@ fulltitle: Religion in Vekllei
 emoji: d
 tag: CULTURE
 sitetag: Article
+color: red
 
 weight: 2
 
@@ -11,30 +12,6 @@ description: Upen is an indigenous religion of Vekllei, a utopia created by Hoba
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
-<style>
-.tag {
-  color: var(--color-red);
-}
-.emoji {
-  color: var(--color-red);
-}
-.markdown a {
-color: var(--color-red);
-}
-.markdown a.anchor {
-color: var(--color-red);
-}
-aside nav ul a {
-color: var(--color-red);
-}
-#headerbox .emoji {
-color: var(--color-red);
-}
-.markdown a:visited {
-color: var(--color-red);
-}
-</style>
 
 ![img](/images/death.jpg)
 {{< hint caption >}}

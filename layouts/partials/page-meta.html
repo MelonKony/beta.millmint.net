@@ -2,15 +2,19 @@
   <div>
     <div>
       <div class="headerbox">
-        <h1 class="title" style="line-height: 1.2; font-size: 1.5rem; font-weight: 700; margin-bottom: 1rem;">{{ if .Params.fulltitle }}{{ .Params.fulltitle }}</h1>
+        <h1 class="title {{ .Params.Color }}" style="line-height: 1.2; font-size: 1.5rem; font-weight: 700; margin-bottom: 1rem; filter: brightness(35%);">{{ if .Params.fulltitle }}{{ .Params.fulltitle }}</h1>
         {{ end }}
-        <div class="tag">{{ if .Params.tag }}{{ .Params.tag }}</div>
+        <div class="tag {{ .Params.Color }}">{{ if .Params.tag }}{{ .Params.tag }}</div>
         {{ end }}
-        <div class="sitetag">{{ if .Params.sitetag }}{{ .Params.sitetag }}</div>
+        <div class="sitetag {{ .Params.Color }}">{{ if .Params.sitetag }}{{ .Params.sitetag }}</div>
         {{ end }}
-        <div class="emoji" id="whirlybat">{{ if .Params.emoji }}{{ .Params.emoji }}</div>
+        <div class="emoji {{ .Params.Color }}" id="whirlybat">{{ if .Params.emoji }}{{ .Params.emoji }}</div>
         {{ end }}
         </div>
       </div>
     </div>
 </div>
+
+<div class="body article a {{ .Params.Color }}"></div>
+<div class="body article a a:visited {{ .Params.Color }}"></div>
+<div class="header a {{ .Params.Color }}"></div>
