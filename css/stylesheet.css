@@ -5,3 +5,8 @@ article img[alt~="smallimg"] {
 	padding: 1rem;
   border-radius: 5px;
 }
+
+/* navbar fix */
+.mt-3 {
+  margin-top: 0rem;
+}

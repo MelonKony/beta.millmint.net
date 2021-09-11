@@ -7,6 +7,8 @@ tag: CULTURE
 sitetag: Article
 color: red
 
+list_posts: false
+
 description: The language of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint

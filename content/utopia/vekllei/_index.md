@@ -5,6 +5,8 @@ emoji: -millmint
 tag: UTOPIA
 sitetag: Introduction
 
+list_posts: false
+
 description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint

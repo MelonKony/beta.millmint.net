@@ -8,7 +8,7 @@ sitetag: Article
 color: mail
 
 weight: 2
-bookHidden: false
+list_posts: false
 
 description: The Royal Mail of Vekllei is the national postal organisation of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips

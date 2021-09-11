@@ -5,15 +5,15 @@
             <label for="navbar_btn" class="menu-btn mr-4 items-center flex xl:hidden">
                 <span class="navicon"></span>
             </label>
-            <a href="{{ .Site.Home.RelPermalink }}" class="font-bold text-lg xl:text-2xl mr-auto">
+            <a href="{{ .Site.Home.RelPermalink }}" class="font-bold text-lg xl:text-2xl mr-auto {{ .Params.Color }}" style="filter: brightness(25%);">
                 {{- with (.Scratch.Get "params").navbarTitle }}
                     {{- . | safeHTML -}}
                 {{- end -}}
             </a>
-            <a href="{{ .Site.Home.RelPermalink }}" class="emoji" style="font-size: 30px; margin-left: .5rem;" id="whirlybat">-millmint</a>
+            <a href="{{ .Site.Home.RelPermalink }}" class="emoji {{ .Params.Color }}" style="font-size: 30px; margin-left: .5rem; filter: brightness(25%); margin-right: 40px;" id="whirlybat">-millmint</a>
         </div>
 
-        <div class="flex items-center">
+        <!--<div class="flex items-center">
             <div class="cursor-pointer ml-2">
                 <svg id="dark_mode_btn" class="hidden" width="18px" height="18px" viewBox="0 0 24 24">
                     {{- partial "svg/sun.html" -}}
@@ -37,16 +37,16 @@
                         {{ end }}
                     </ul>
                 </div>
-            {{ end }}
+            {{ end }}-->
 
             {{ if (.Scratch.Get "params").enableSiteSearch }}
-                <div class="ml-2 sep hidden sm:block"></div>
+                <!--<div class="ml-2 sep hidden sm:block"></div>-->
                 <div class="ml-2 relative flex items-center">
                   {{ partial "search" . }}
                 </div>
             {{ end }}
         </div>
-    </div>
+    <!--</div>-->
 
     <nav id="navbar" class="mt-3 hidden xl:block">
         {{- $currentPage := . -}}

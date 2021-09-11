@@ -586,6 +586,14 @@ html {
   }
 }
 
+/* mobile fixes */
+
+@media (max-width: 600px) {
+  .mt-9 {
+    margin-top: 1rem !important;
+  }
+}
+
 /* footer breadcrumbs */
 
 .breadcrumbs {
@@ -8796,11 +8804,6 @@ body {
 
 /* type styles */
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: Nay Aug Black;
-  text-transform: uppercase;
-}
-
 /* image styles */
 
 article img[alt~="smallimg"] {
@@ -9211,7 +9214,7 @@ body .collapsible-menu-wrapper {
 .book-search input {
   width: 100%;
   padding: 2px;
-  border: 0;
+  border: 1px solid var(--gray-200);
   border-radius: 5px;
   background: var(--gray-100);
   color: var(--body-font-color);

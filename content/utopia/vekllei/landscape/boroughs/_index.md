@@ -1,5 +1,6 @@
 ---
 title: Boroughs
+
 fulltitle: The Boroughs of Vekllei
 emoji: ←
 tag: LANDSCAPE
@@ -7,7 +8,7 @@ sitetag: Introduction
 color: green
 
 weight: 1
-bookHidden: false
+list_posts: false
 ---
 
 ![img](/images/railmap.jpg)

@@ -15,3 +15,9 @@
   src: url("/fonts/NayAug-Black.ttf")
   format('truetype');
 }
+
+@font-face {
+  font-family: "Nay Aug Bold";
+  src: url("/fonts/NayAug-Bold.ttf")
+  format('truetype');
+}

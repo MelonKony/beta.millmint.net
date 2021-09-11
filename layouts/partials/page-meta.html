@@ -2,7 +2,7 @@
   <div>
     <div>
       <div class="headerbox">
-        <h1 class="title {{ .Params.Color }}" style="line-height: 1.2; font-size: 1.5rem; font-weight: 700; margin-bottom: 1rem; filter: brightness(35%);">{{ if .Params.fulltitle }}{{ .Params.fulltitle }}</h1>
+        <h1 class="title {{ .Params.Color }}" style="line-height: 1.2; font-size: 1.5rem; font-weight: 800; margin-bottom: 1rem; filter: brightness(35%);">{{ if .Params.fulltitle }}{{ .Params.fulltitle }}</h1>
         {{ end }}
         <div class="tag {{ .Params.Color }}">{{ if .Params.tag }}{{ .Params.tag }}</div>
         {{ end }}
@@ -10,11 +10,12 @@
         {{ end }}
         <div class="emoji {{ .Params.Color }}" id="whirlybat">{{ if .Params.emoji }}{{ .Params.emoji }}</div>
         {{ end }}
-        </div>
       </div>
+        <div class="body article a {{ .Params.Color }}"></div>
+        <div class="body article a a:visited {{ .Params.Color }}"></div>
+        <div class="header a {{ .Params.Color }}"></div>
+        <h1 class="{{ .Params.Color }}" style="filter: brightness(35%);"></h1>
+        <h2 class="{{ .Params.Color }}" style="filter: brightness(35%);"></h2>
     </div>
+  </div>
 </div>
-
-<div class="body article a {{ .Params.Color }}"></div>
-<div class="body article a a:visited {{ .Params.Color }}"></div>
-<div class="header a {{ .Params.Color }}"></div>
