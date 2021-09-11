@@ -1,5 +1,7 @@
 ---
-title: KID COMIX, an underground comic mag in Vekllei
+title: KID COMIX
+fulltitle: KID COMIX, an underground comic mag in Vekllei
+
 date: 2018-09-07
 tags:
     - post

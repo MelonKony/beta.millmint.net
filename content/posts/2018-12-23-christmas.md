@@ -1,5 +1,7 @@
 ---
 title: Merry Christmas everyone (plus a little Christmas story)
+fulltitle: Merry Christmas everyone (plus a little Christmas story)
+
 date: 2018-12-23
 tags:
     - post

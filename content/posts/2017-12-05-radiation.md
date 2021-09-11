@@ -1,5 +1,7 @@
 ---
 title: Radiation Poisoning in Domestic Vekllei
+fulltitle: Radiation Poisoning in Domestic Vekllei
+
 date: 2017-12-05
 tags:
     - post

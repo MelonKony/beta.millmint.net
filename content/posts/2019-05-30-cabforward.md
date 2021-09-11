@@ -1,5 +1,7 @@
 ---
 title: Catching a steam locomotive to school
+fulltitle: Catching a steam locomotive to school
+
 date: 2019-05-30
 tags:
     - post

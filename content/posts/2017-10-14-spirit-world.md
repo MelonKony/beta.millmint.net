@@ -1,5 +1,7 @@
 ---
 title: Entering the Spirit World
+fulltitle: Entering the Spirit World
+
 date: 2017-10-14
 tags:
     - post
@@ -31,4 +33,4 @@ An hour passed and she ran out of things to say and realised her entire life cou
 
 *I understand this is quite a lot to take in. Ask me a question, follow the links for more information on the parts of this world, or check my post history if you want more information.* I love questions and comments.
 
-EDIT: Sprinkled a couple more links in and decided to proofread. 
+EDIT: Sprinkled a couple more links in and decided to proofread.

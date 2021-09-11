@@ -1,5 +1,7 @@
 ---
 title: winter love + puffin / feat. Tzipora & Akiko
+fulltitle: winter love + puffin / feat. Tzipora & Akiko
+
 date: 2018-07-19
 tags:
     - post

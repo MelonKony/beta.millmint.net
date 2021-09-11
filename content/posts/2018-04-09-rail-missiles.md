@@ -1,5 +1,7 @@
 ---
 title: Rail-Launched Nuclear Missiles
+fulltitle: Rail-Launched Nuclear Missiles
+
 date: 2018-04-09
 tags:
     - post

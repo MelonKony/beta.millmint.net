@@ -1,5 +1,7 @@
 ---
-title: Meet Tzipora Desmoines, the Eternal Teen-ager and Princess of the Earth
+title: Meet Tzipora Desmoines
+fulltitle: Meet Tzipora Desmoines, the Eternal Teen-ager and Princess of the Earth
+
 date: 2019-05-27
 tags:
     - post

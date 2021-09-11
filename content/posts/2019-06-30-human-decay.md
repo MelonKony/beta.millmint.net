@@ -1,5 +1,7 @@
 ---
 title: The Principles of "Human Decay"
+fulltitle: The Principles of "Human Decay"
+
 date: 2019-06-30
 tags:
     - sketch

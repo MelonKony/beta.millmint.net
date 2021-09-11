@@ -1,5 +1,7 @@
 ---
 title: Rural Trains
+fulltitle: Rural Trains
+
 date: 2018-12-05
 tags:
     - post

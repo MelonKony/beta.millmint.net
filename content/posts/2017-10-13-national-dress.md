@@ -1,5 +1,7 @@
 ---
 title: The National Dress of Vekllei
+fulltitle: The National Dress of Vekllei
+
 date: 2017-10-13
 tags:
     - post

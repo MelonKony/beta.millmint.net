@@ -1,5 +1,7 @@
 ---
 title: The Suburban Constabulary
+fulltitle: The Suburban Constabulary
+
 date: 2018-12-23
 tags:
     - post

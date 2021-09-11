@@ -1,5 +1,7 @@
 ---
 title: Blood Names
+fulltitle: Blood Names
+
 date: 2018-06-14
 tags:
     - post

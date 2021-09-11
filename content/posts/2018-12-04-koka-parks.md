@@ -1,5 +1,7 @@
 ---
 title: Koka parks & municipal recreation
+fulltitle: Koka parks & municipal recreation
+
 date: 2018-12-04
 tags:
     - post

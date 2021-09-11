@@ -1,5 +1,7 @@
 ---
-title: Tzipora has her photo taken at Youth Meet 2063. Nuclear war in Germany breaks out eight days later.
+title: Tzipora has her photo taken at Youth Meet 2063
+fulltitle: Tzipora has her photo taken at Youth Meet 2063. Nuclear war in Germany breaks out eight days later.
+
 date: 2017-07-01
 tags:
     - post

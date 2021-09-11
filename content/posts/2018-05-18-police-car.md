@@ -1,5 +1,7 @@
 ---
 title: Police in Vekllei
+fulltitle: Police in Vekllei
+
 date: 2018-05-18
 tags:
     - post

@@ -1,5 +1,7 @@
 ---
 title: Chemical Warfare in 2063
+fulltitle: Chemical Warfare in 2063
+
 date: 2017-09-27
 tags:
     - post
