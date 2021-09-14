@@ -4,6 +4,7 @@ fulltitle: The Utopia of Vekllei
 emoji: -millmint
 tag: UTOPIA
 sitetag: Introduction
+color: pink
 
 list_posts: false
 
@@ -13,9 +14,6 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ---
 
 <style>
-.tag, .emoji, .title {
-  color: var(--color-pink);
-}
 body article a {
 color: var(--color-pink);
 }

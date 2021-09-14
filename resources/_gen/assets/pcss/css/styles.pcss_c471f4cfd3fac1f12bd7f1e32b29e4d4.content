@@ -572,7 +572,6 @@ html {
 
 .p-4 {
   padding: 0.5rem !important;
-  padding-left: 1rem !important;
   padding-right: 1rem !important;
 }
 
@@ -1942,7 +1941,6 @@ article code {
 
 article pre {
   padding: 0.5rem;
-  padding-left: 1rem;
   padding-right: 1rem;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
