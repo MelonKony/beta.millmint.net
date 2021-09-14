@@ -5,27 +5,27 @@
      margin-top: 40px;
     }
   }
-  .markdown h2 {
+  h2 {
     margin: 0.5rem;
     overflow: hidden;
     max-width: 300px;
   }
-  .markdown img {
+  img {
     max-height:58vh;
     margin: 0px;
   }
   .gt-container {
     display: none;
   }
-  .markdown a {
+  a {
     text-decoration: none;
   }
-  .markdown a:hover {
+  a:hover {
     text-decoration: none;
     opacity: .75;
   }
 
-  .markdown img {
+  img {
     padding: 0;
   }
 </style>
@@ -36,9 +36,9 @@
     </div>
   <div style="display: flex; flex-wrap: wrap; flex-direction: columns;">
   {{ range sort .Paginator.Pages }}
-  <article class="markdown book-post" style= "
+  <article style= "
 
-  min-width: 100%;
+  max-width: 400px;
   object-fit:cover;
   background-color: var(--gray-100);
   background-size: auto;

@@ -1,16 +1,18 @@
-<div class="collapsible-menu-wrapper my-8 p-4 border-2 rounded">
+<div class="collapsible-menu-wrapper my-8 p-4 border-2 rounded" style="margin-bottom: 1rem;">
     {{ if eq .enable true }}
         <input id="collapse_btn_{{ .type }}" class="hidden collapse-btn-input" type="checkbox">
     {{ end }}
 
+    <label for="collapse_btn_{{ .type }}" style="color: var(--color-gray)" class="collapse-btn">
     <div class="flex justify-between">
-        <span class="font-bold">{{ i18n .type }}</span>
+        <span style="font-weight: bolder; font-size: 16px; color: var(--color-gray)">߷ {{ i18n .type }}</span>
         {{ if eq .enable true }}
-            <label for="collapse_btn_{{ .type }}" class="collapse-btn">
+            <label for="collapse_btn_{{ .type }}" style="color: var(--color-gray)" class="collapse-btn">
                 {{- partial "svg/arrow-right.html" -}}
             </label>
         {{ end }}
     </div>
+    </label>
 
     <div class="collapsible-menu text-sm ml-2">
         {{ if eq .type "changelogs" }}

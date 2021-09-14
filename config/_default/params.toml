@@ -17,7 +17,7 @@ enableTwitterCards = true
 author = "Hobart Phillips"
 
 # Collapsible Menu
-enableCollapsibleTOC = false
+enableCollapsibleTOC = true
 enableCollapsibleChangelogs = true
 
 # Number of posts

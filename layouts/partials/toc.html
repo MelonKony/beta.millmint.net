@@ -1,6 +1,4 @@
-<div class="{{ .Params.Color }}">
 {{ if and (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") (.Scratch.Get "params").enableTOC }}
     {{ $enableCollapsibleTOC := (.Scratch.Get "params").enableCollapsibleTOC }}
     {{ partial "collapsible-menu.html" (dict "type" "toc" "context" . "enable" $enableCollapsibleTOC) }}
 {{ end }}
-</div>
