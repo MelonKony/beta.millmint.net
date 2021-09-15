@@ -93,5 +93,6 @@ Troll's location at the base of the Vatnayoskusl Glacier makes it a strategic si
 - Troll-Misya
 <--->
 ## Posts
+- [Roadside Picnic](/posts/2021-09-15-picnic/)
 - [VNR Orange](/posts/2021-06-03-orange/)
 {{</columns>}}

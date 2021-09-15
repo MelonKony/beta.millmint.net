@@ -6,9 +6,7 @@ description: Utopian storytelling by Studio MillMint.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
-
-<div class="emoji" id="whirlybat" style="text-align: center;">-atom</div>
+<div class="emoji" id="whirlybat" style="text-align: center;">g</div>
 
 # Welcome to MillMint.net
 This website is a repository for the work of [Hobart Phillips](/newsdesk/about), best known for [Vekllei](/utopia/vekllei). Visit the menu above to learn more about my work.
