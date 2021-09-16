@@ -11,9 +11,14 @@
         <div class="emoji {{ .Params.Color }}" id="whirlybat">{{ if .Params.emoji }}{{ .Params.emoji }}</div>
         {{ end }}
       </div>
-        <div class="body article a {{ .Params.Color }}"></div>
-        <div class="body article a a:visited {{ .Params.Color }}"></div>
-        <div class="header a {{ .Params.Color }}"></div>
+    </div>
+  </div>
+</div>
+
+      <div class="post-meta">
+        <div class="date">{{if .Params.PublishDate}}{{- .PublishDate.Format "Monday, Jan 2, 2006" -}}{{ end }}</div>
+        <div class="posttag"><!--{{ partial "tags.html" .}}-->{{ partial "categories.html" .}}</div>
+      </div>
         <h1 class="{{ .Params.Color }}" style="filter: brightness(35%);"></h1>
         <h2 class="{{ .Params.Color }}" style="filter: brightness(35%);"></h2>
     </div>
