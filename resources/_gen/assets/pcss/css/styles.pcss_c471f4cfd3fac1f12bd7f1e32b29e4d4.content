@@ -575,6 +575,38 @@ html {
   padding-right: 1rem !important;
 }
 
+details {
+  padding: 0 !important;
+  padding-left: 0.5rem !important;
+}
+
+details summary::-webkit-details-marker {
+  float: right;
+  margin-top: 8px;
+}
+
+::-moz-placeholder {
+  font-size: 14px;
+  pading-left: 10px;
+}
+
+:-ms-input-placeholder {
+  font-size: 14px;
+  pading-left: 10px;
+}
+
+::placeholder {
+  font-size: 14px;
+  pading-left: 10px;
+}
+
+input {
+  padding: 5px !important;
+  padding-left: 0.5rem !important;
+  font-size: 14px;
+  border: 0 !important;
+}
+
 /* site width fix */
 
 @media (min-width: 1280px) {
@@ -8884,7 +8916,7 @@ article img {
 
 body {
   line-height: 1.67059;
-  font-size: 17px;
+  font-size: 16px;
 }
 
 /* type styles */

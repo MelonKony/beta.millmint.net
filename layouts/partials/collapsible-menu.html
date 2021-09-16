@@ -3,16 +3,15 @@
         <input id="collapse_btn_{{ .type }}" class="hidden collapse-btn-input" type="checkbox">
     {{ end }}
 
-    <label for="collapse_btn_{{ .type }}" style="color: var(--color-gray)" class="collapse-btn">
-    <div class="flex justify-between">
-        <span style="font-weight: bolder; font-size: 16px; color: var(--color-gray)">{{ i18n .type }}</span>
-        {{ if eq .enable true }}
+<details>
+    <summary style="font-weight: 500; font-size: 16px; color: var(--color-gray)">{{ i18n .type }}</summary>
+    <!--<div class="flex justify-between">-->
+        <!--{{ if eq .enable true }}
             <label for="collapse_btn_{{ .type }}" style="color: var(--color-gray)" class="collapse-btn">
                 {{- partial "svg/arrow-right.html" -}}
             </label>
-        {{ end }}
-    </div>
-    </label>
+        {{ end }}-->
+    <!--</div>-->
 
     <div class="collapsible-menu text-sm ml-2">
         {{ if eq .type "changelogs" }}
@@ -33,3 +32,4 @@
         {{ end }}
     </div>
 </div>
+</details>
