@@ -9171,6 +9171,8 @@ body article blockquote {
   grid-area: tag;
   font-weight: bolder;
   font-size: 14px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .sitetag {
