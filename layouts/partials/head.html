@@ -45,14 +45,14 @@
       <script defer src="{{ $searchJS.RelPermalink }}" {{ template "integrity" $searchJS }}></script>
     {{ end -}}
 
-    {{/*  Dark theme: inline in `head` to avoid FOUC  */}}
+    <!--{{/*  Dark theme: inline in `head` to avoid FOUC  */}}
     <script>
         if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
             document.documentElement.classList.add('dark');
         } else {
             document.documentElement.classList.remove('dark');
         }
-    </script>
+    </script>-->
 
     <!-- Umami Analytics -->
     <script async defer data-website-id="522641d4-3498-46aa-a5d3-d672b34208e0" src="https://analytics.millmint.net/umami.js"></script>
