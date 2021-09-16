@@ -15,12 +15,15 @@
         margin-right: auto;
 
         ">
+
+        <div style="margin-bottom: 2rem;">
             <a style="font-size: 1rem; font-weight: 700; color: var(--body-font-color); margin-bottom: 1rem;" href="{{ .RelPermalink }}" href="{{ .RelPermalink }}" class="text-base border-b-2">
                 {{- .Title -}}
             </a>
             <span class="text-xs">
                 {{- .PublishDate.Format "2006/01/02" -}}
             </span>
+          </div>
             {{ partial "post-meta" . }}
         </li>
     {{ end }}

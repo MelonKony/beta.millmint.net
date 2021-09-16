@@ -81,12 +81,14 @@
                             margin: 0.5rem;
                             margin-left: auto;
                             margin-right: auto;">
-                          <a style="font-size: 1.2rem; font-weight: 700; color: var(--body-font-color);" href="{{ .RelPermalink }}" href="{{ .RelPermalink }}" class="text-base border-b-2">
-                              {{- .Title -}}
-                          </a>
-                          <span class="text-xs">
-                              {{- .PublishDate.Format "2006/01/02" -}}
-                          </span>
+                          <div style="margin-bottom: 1rem;">
+                            <a style="font-size: 1.2rem; font-weight: 700; color: var(--body-font-color); max-width: 75%;" href="{{ .RelPermalink }}" href="{{ .RelPermalink }}" class="text-base border-b-2">
+                                {{- .Title -}}
+                            </a>
+                            <span class="text-xs" style="float: right; padding: 5px; font-weight: 500;">
+                                {{- .PublishDate.Format "2006/01/02" -}}
+                            </span>
+                          </div>
                           {{ partial "post-meta.html" . }}
                         </li>
                       {{ end }}

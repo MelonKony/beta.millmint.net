@@ -415,3 +415,28 @@ body .collapsible-menu-wrapper {
   background-color: var(--gray-100);
   border: 0;
 }
+
+/* navbar border radius */
+.navbar-item-dropdown {
+  background-color: transparent;
+}
+.navbar-item-dropdown:nth-child(2) {
+  margin-bottom: -1px;
+  border-radius: 5px 5px 0 0;
+}
+.navbar-item-dropdown:last-child {
+  margin-top: -1px;
+  border-radius: 0 0 5px 5px;
+}
+
+.navbar-dropdown li {
+  background-color: transparent;
+}
+.navbar-dropdown li:nth-child(2) {
+  margin-bottom: -1px;
+  border-radius: 5px 5px 0 0;
+}
+.navbar-dropdown li:last-child {
+  margin-top: -1px;
+  border-radius: 0 0 5px 5px;
+}
