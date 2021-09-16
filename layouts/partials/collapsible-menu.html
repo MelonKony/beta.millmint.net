@@ -3,8 +3,8 @@
         <input id="collapse_btn_{{ .type }}" class="hidden collapse-btn-input" type="checkbox">
     {{ end }}
 
-<details>
-    <summary style="font-weight: 500; font-size: 16px; color: var(--color-gray)">{{ i18n .type }}</summary>
+<details class="noSelect">
+    <summary class="noSelect" style="font-weight: 500; font-size: 16px; color: var(--color-gray)">{{ i18n .type }}</summary>
     <!--<div class="flex justify-between">-->
         <!--{{ if eq .enable true }}
             <label for="collapse_btn_{{ .type }}" style="color: var(--color-gray)" class="collapse-btn">
