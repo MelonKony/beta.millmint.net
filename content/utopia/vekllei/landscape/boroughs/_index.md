@@ -10,6 +10,11 @@ color: green
 weight: 1
 list_posts: false
 ---
+<style>
+.gt-container {
+  display: none;
+}
+</style>
 
 ![img](/images/railmap.jpg)
 

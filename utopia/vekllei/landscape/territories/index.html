@@ -50,7 +50,7 @@
 
 
       <script defer src="/flexsearch.min.js"></script>
-      <script defer src="/en.search.min.ce442a2e116edb3648795d48ba5a27802cc41b66a1cd7ad6bf457e08f1c7a0be.js" integrity="sha256-zkQqLhFu2zZIeV1IulongCzEG2ahzXrWv0V&#43;CPHHoL4=" crossorigin="anonymous"></script>
+      <script defer src="/en.search.min.1b1e26a5e39161751eb0ef06babf46dfa0e9c8b3b94502775e5bf24015e7d8cf.js" integrity="sha256-Gx4mpeORYXUesO8Gur9G36DpyLO5RQJ3XlvyQBXn2M8=" crossorigin="anonymous"></script>
     
 
     
@@ -78,8 +78,8 @@
             <label for="navbar_btn" class="menu-btn mr-4 items-center flex xl:hidden">
                 <span class="navicon"></span>
             </label>
-            <a href="/" class="font-bold text-lg xl:text-2xl mr-auto " style="filter: brightness(25%);">MillMint</a>
-            <a href="/" class="emoji " style="font-size: 30px; margin-left: .5rem; filter: brightness(25%); margin-right: 40px;" id="whirlybat">-millmint</a>
+            <a href="/" class="font-bold text-lg xl:text-2xl mr-auto green" style="filter: brightness(25%);">MillMint</a>
+            <a href="/" class="emoji green" style="font-size: 30px; margin-left: .5rem; filter: brightness(25%); margin-right: 40px;" id="whirlybat">-millmint</a>
         </div>
 
         
@@ -343,10 +343,14 @@
   <div>
     <div>
       <div class="headerbox">
-        <h1 class="title " style="line-height: 1.2; font-size: 1.5rem; font-weight: 800; margin-bottom: 1rem; filter: brightness(35%);">
-        <div class="tag ">
-        <div class="sitetag ">
-        <div class="emoji " id="whirlybat">
+        <h1 class="title green" style="line-height: 1.2; font-size: 1.5rem; font-weight: 800; margin-bottom: 1rem; filter: brightness(35%);">The Territories of Vekllei</h1>
+        
+        <div class="tag green">LANDSCAPE</div>
+        
+        <div class="sitetag green">Introduction</div>
+        
+        <div class="emoji green" id="whirlybat">←</div>
+        
       </div>
     </div>
   </div>
@@ -362,8 +366,8 @@
   </div>
 </div>
 
-<h1 class="" style="filter: brightness(35%);"></h1>
-<h2 class="" style="filter: brightness(35%);"></h2>
+<h1 class="green" style="filter: brightness(35%);"></h1>
+<h2 class="green" style="filter: brightness(35%);"></h2>
 
     
     <div>
@@ -419,14 +423,25 @@ color: var(--color-green);
 }
 .markdown a:visited {
 color: var(--color-green);
+
+/* flags */
+.row {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+@media (max-width: 1250px) {
+  .row {
+    display: none;
+  }
+}
+
 }
 </style>
-<div id="headerbox">
-  <h1 class="title">The Territories of Vekllei</h1>
-  <h1 class="emoji" id="whirlybat">-millmint</h1>
-</div>
-<h5 span class="tag green"> LANDSCAPE </h5>
-<h6 span class="sitetag">Introduction</h6>
 <p><img src="/images/territories.jpg" alt="img"></p>
 <blockquote class="book-hint green">
   ♣ This page lists completed articles on <a href="/utopia/vekllei"><strong>Vekllei&rsquo;s</strong></a> <a href="/utopia/vekllei/#administrative-divisions"><strong>overseas territories</strong></a>
@@ -454,20 +469,6 @@ color: var(--color-green);
 </div>
 
 
-
-        <div class="mb-8">
-            <h1 class="font-bold text-2xl">Territories</h1><style>
-  .gt-container {
-    display: none;
-  }
-</style><ul class="my-2">
-    
-        <li class="mb-2 leading-relaxed list-item">
-            <a href="/utopia/vekllei/landscape/territories/kalina/" class="text-base border-b-2">Kalina</a>
-          
-        </li>
-    
-</ul></div>
 
 
 
@@ -535,8 +536,8 @@ color: var(--color-green);
   </script>
 
   
-  <footer class="my-8 w-full text-center text-xs">
-      <article>Copyright © 2017-2021 Studio MillMint</article>
+  <footer class="my-8 w-full text-center text-xs" style="margin-top: 2rem; margin-bottom: 0rem;">
+      <article style="margin-top: 0rem; margin-bottom: 0rem;">Copyright © 2017-2021 Studio MillMint</article>
   </footer>
   
 

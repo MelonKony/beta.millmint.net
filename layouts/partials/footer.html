@@ -16,8 +16,8 @@
   </script>
 
   {{ with (.Scratch.Get "params").footer }}
-  <footer class="my-8 w-full text-center text-xs">
-      <article>
+  <footer class="my-8 w-full text-center text-xs" style="margin-top: 2rem; margin-bottom: 0rem;">
+      <article style="margin-top: 0rem; margin-bottom: 0rem;">
           {{- . | safeHTML -}}
       </article>
   </footer>
