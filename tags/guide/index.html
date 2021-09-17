@@ -44,7 +44,7 @@
 <meta name="twitter:title" content="guide"/>
 <meta name="twitter:description" content=""/>
 
-    <link rel="stylesheet" href="/css/styles.min.f7da91199a8816bc55ad8ab4609eee8210f3772d3e30e4a97f1b28846d086421e25e84814f9203c5e34968b78dcae1d26264e28526db6b8bbe22432b3487af58.css" integrity="sha512-99qRGZqIFrxVrYq0YJ7ughDzdy0+MOSpfxsohG0IZCHiXoSBT5IDxeNJaLeNyuHSYmTihSbba4u+IkMrNIevWA==">
+    <link rel="stylesheet" href="/css/styles.min.f40aa6fba9961a6dd4a846fc83211a867e74406c9c9c4373f69cde86bc11ad0cb964c6d5c9b4dc15f3f484b44806798e40ffc1a191fc325a96d729b0bd7fa82b.css" integrity="sha512-9Aqm+6mWGm3UqEb8gyEahn50QGycnENz9pzehrwRrQy5ZMbVybTcFfP0hLRIBnmOQP/BoZH8MlqW1ymwvX+oKw==">
 
 
 
@@ -494,7 +494,12 @@
 
 
 
-    <script src="/js/zooming.10cfe42f65295a0596af3315b671956309ed1d20e299e476ca16f6f6b902421e29c6f81a8f9a7ce816f84bef0791dbad2e61e68ff8fe798bd9ce9e093756d084.js" integrity="sha512-EM/kL2UpWgWWrzMVtnGVYwntHSDimeR2yhb29rkCQh4pxvgaj5p86Bb4S&#43;8HkdutLmHmj/j&#43;eYvZzp4JN1bQhA=="></script>
+    <script src="/js/zooming.10cfe42f65295a0596af3315b671956309ed1d20e299e476ca16f6f6b902421e29c6f81a8f9a7ce816f84bef0791dbad2e61e68ff8fe798bd9ce9e093756d084.js" integrity="sha512-EM/kL2UpWgWWrzMVtnGVYwntHSDimeR2yhb29rkCQh4pxvgaj5p86Bb4S&#43;8HkdutLmHmj/j&#43;eYvZzp4JN1bQhA==">
+      new Zooming({
+        onBeforeOpen: (e) => e.height = 2 * Math.round(e.height / 2),
+        onBeforeClose: (e) => e.width = 2 * Math.round(e.width / 2)
+});
+    </script>
 
 
 

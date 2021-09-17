@@ -8,6 +8,7 @@ sitetag: Introduction
 color: pink
 
 weight: 1
+list_posts: false
 
 description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips

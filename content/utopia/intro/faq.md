@@ -7,6 +7,8 @@ tag: UTOPIA
 sitetag: Introduction
 
 weight: 1
+list_posts: false
+
 bookHidden: true
 description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips

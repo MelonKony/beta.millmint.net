@@ -8941,7 +8941,14 @@ body {
   font-size: 16px;
 }
 
-/* type styles */
+/* rounded images */
+
+img {
+  border-radius: 5px;
+  width: 100vw;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
 
 /* image styles */
 
@@ -8951,15 +8958,6 @@ article img[alt~="smallimg"] {
   min-width: 300px;
   padding: 1rem;
   border-radius: 5px;
-}
-
-/* rounded images */
-
-img {
-  border-radius: 5px;
-  width: 100vw;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
 }
 
 :root {
@@ -9038,14 +9036,6 @@ img {
 
 .yellow {
   color: var(--color-yellow);
-}
-
-/* body and margins */
-
-@media (min-width: 1280px) {
-  .xl\:w-5\/12 {
-    width: 45.666667%;
-  }
 }
 
 /* drop cap */

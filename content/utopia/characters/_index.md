@@ -8,6 +8,8 @@ sitetag: Introduction
 color: pink
 
 weight: 2
+list_posts: false
+
 description: The people of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
