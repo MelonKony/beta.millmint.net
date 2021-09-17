@@ -619,12 +619,11 @@ padding-top: 5px;
 
 /* site width fix */
 
-@media (min-width: 1280px) {
-  .xl\:w-5\/12 {
-    width: 50.666667% !important;
-  }
+/*@media (min-width: 1280px) {
+    .xl\:w-5\/12 {
+        width: 50.666667%!important;
+    }
 }
-
 /* make site navbar stick around longer */
 
 @media (min-width: 200px) {
