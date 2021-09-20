@@ -1,5 +1,5 @@
 <head>
-  {{ partial "inject/head" . }}
+  {{ partial "head" . }}
   <link rel="stylesheet" href="/css/parallax/volcanic.css">
   <script>
    function resizeIframe(obj) {
@@ -9,7 +9,9 @@
 </head>
 
 <body dir={{ .Site.Language.LanguageDirection }}>
-
+  <div class="w-full sm:w-10/12 md:w-9/12 lg:w-7/12 xl:w-5/12 m-auto px-6">
+    {{- partial "header.html" . -}}
+  </div>
   <!-- Parallax -->
 
   <!-- .:. Parallax engine and programming courtesy of Ben R. .:. -->
@@ -61,30 +63,10 @@
   <!DOCTYPE html>
   <html class="h-full w-full font-sans" lang='{{ .Site.LanguageCode }}'>
       {{- partial "head.html" . -}}
-      <style>
-        .gt-container {
-          display: none;
-        }
-        body header #dark_mode_btn, body header #light_mode_btn, body header #translation_wrapper, body header #search_btn, body header #search_menu_close_btn {
-            fill: white;
-        }
-        header .sep {
-          border-color: white;
-        }
-        header .menu-btn {
-          display: none;
-        }
-        body header .navbar-item-dropdown.inactive, body header .navbar-item.inactive {
-          color: #f7f6f6;
-        }
-        body header .navbar-item-dropdown.inactive, body header .navbar-item.inactive {
-          fill: white;
-        }
-      </style>
           <main class="w-full sm:w-10/12 md:w-9/12 lg:w-7/12 xl:w-5/12 m-auto px-6">
-            <div style="position: absolute; top:0; color: white;">
+            <!--<div style="position: absolute; top:0;">
               {{- partial "header.html" . -}}
-            </div>
+            </div>-->
               <div id="content" class="my-8">
                   {{ if .Params.changelogs }}
                       {{ $enableCollapsibleChangelogs := (.Scratch.Get "params").enableCollapsibleChangelogs }}
@@ -109,3 +91,17 @@
   </html>
 
 </body>
+
+<style>
+  .gt-container {
+    display: none;
+  }
+  body header .navbar-item-dropdown.inactive, body header .navbar-item.inactive {
+    color: #2F474C;
+    fill: #2F474C;
+  }
+  .mb-8 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+</style>

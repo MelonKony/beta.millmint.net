@@ -575,12 +575,12 @@ html {
   padding-right: 1rem !important;
 }
 
-details {
+.collapsible-menu-wrapper details {
   padding: 0 !important;
   padding-left: 0.5rem !important;
 }
 
-details summary::-webkit-details-marker {
+.collapsible-menu-wrapper details summary::-webkit-details-marker {
   float: right;
   margin-top: 8px;
 }
@@ -619,11 +619,12 @@ padding-top: 5px;
 
 /* site width fix */
 
-/*@media (min-width: 1280px) {
-    .xl\:w-5\/12 {
-        width: 50.666667%!important;
-    }
+@media (min-width: 1280px) {
+  .xl\:w-5\/12 {
+    width: 45.666667%;
+  }
 }
+
 /* make site navbar stick around longer */
 
 @media (min-width: 200px) {
@@ -9316,7 +9317,7 @@ details summary {
 }
 
 details {
-  padding: 1rem;
+  padding: 0.5rem 1rem 0.5rem 1rem;
   border: 0px solid var(--gray-200);
   border-radius: .25rem;
   background-color: var(--gray-100);
