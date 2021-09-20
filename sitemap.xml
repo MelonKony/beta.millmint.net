@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/</loc>
-  </url><url>
     <loc>https://beta.millmint.net/newsdesk/about/</loc>
   </url><url>
     <loc>https://beta.millmint.net/utopia/vekllei/society/intelligence/</loc>
@@ -33,6 +31,8 @@
     <loc>https://beta.millmint.net/drafts/archived/old-intro/</loc>
   </url><url>
     <loc>https://beta.millmint.net/utopia/intro/</loc>
+  </url><url>
+    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/1/</loc>
   </url><url>
     <loc>https://beta.millmint.net/utopia/vekllei/landscape/boroughs/d-kyala/</loc>
   </url><url>
@@ -90,6 +90,8 @@
   </url><url>
     <loc>https://beta.millmint.net/utopia/characters/baron/</loc>
   </url><url>
+    <loc>https://beta.millmint.net/newsdesk/bulletin/</loc>
+  </url><url>
     <loc>https://beta.millmint.net/drafts/archived/old-characters/</loc>
   </url><url>
     <loc>https://beta.millmint.net/utopia/characters/</loc>
@@ -100,19 +102,7 @@
   </url><url>
     <loc>https://beta.millmint.net/newsdesk/essays/hongkong/</loc>
   </url><url>
-    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/1/</loc>
-  </url><url>
     <loc>https://beta.millmint.net/newsdesk/bulletin/2020/2/</loc>
-  </url><url>
-    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/3/</loc>
-  </url><url>
-    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/4/</loc>
-  </url><url>
-    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/5/</loc>
-  </url><url>
-    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/6/</loc>
-  </url><url>
-    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/7/</loc>
   </url><url>
     <loc>https://beta.millmint.net/utopia/vekllei/culture/language/</loc>
   </url><url>
@@ -124,6 +114,8 @@
   </url><url>
     <loc>https://beta.millmint.net/utopia/vekllei/culture/religion/</loc>
   </url><url>
+    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/</loc>
+  </url><url>
     <loc>https://beta.millmint.net/utopia/future/</loc>
   </url><url>
     <loc>https://beta.millmint.net/utopia/</loc>
@@ -132,6 +124,8 @@
   </url><url>
     <loc>https://beta.millmint.net/newsdesk/essays/money/</loc>
   </url><url>
+    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/3/</loc>
+  </url><url>
     <loc>https://beta.millmint.net/utopia/vekllei/landscape/territories/kalina/</loc>
   </url><url>
     <loc>https://beta.millmint.net/drafts/landscape/</loc>
@@ -139,6 +133,14 @@
     <loc>https://beta.millmint.net/newsdesk/</loc>
   </url><url>
     <loc>https://beta.millmint.net/newsdesk/essays/</loc>
+  </url><url>
+    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/4/</loc>
+  </url><url>
+    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/5/</loc>
+  </url><url>
+    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/6/</loc>
+  </url><url>
+    <loc>https://beta.millmint.net/newsdesk/bulletin/2020/7/</loc>
   </url><url>
     <loc>https://beta.millmint.net/newsdesk/essays/tokyo/</loc>
   </url><url>
@@ -155,8 +157,6 @@
     <loc>https://beta.millmint.net/newsdesk/patreon/drafts/comic/</loc>
   </url><url>
     <loc>https://beta.millmint.net/utopia/vekllei/society/</loc>
-  </url><url>
-    <loc>https://beta.millmint.net/newsdesk/bulletin/</loc>
   </url><url>
     <loc>https://beta.millmint.net/newsdesk/patreon/letters/2020/nov/</loc>
   </url><url>
